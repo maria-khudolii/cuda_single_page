@@ -258,16 +258,16 @@ body {
   color: #3c4761; }
   .skills__subtitle {
     width: 605px;
-    margin: 0 auto 84px auto; }
+    margin: 0 auto 70px auto; }
   .skills__container {
-    max-width: 983px; }
+    max-width: 1000px; }
   .skills__progress {
     margin: 0 0 19px 0;
     position: relative; }
   .skills__number {
     position: absolute;
-    top: 50px;
-    left: 42px;
+    top: 66px;
+    left: 50px;
     font-size: 50px;
     font-weight: 300;
     color: #3c4761; }
