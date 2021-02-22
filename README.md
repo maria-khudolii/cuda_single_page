@@ -1,1 +1,1 @@
-# cuda_single_page
+Single page flat template
