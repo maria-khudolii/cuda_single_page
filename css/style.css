@@ -262,7 +262,15 @@ body {
   .skills__container {
     max-width: 983px; }
   .skills__progress {
-    margin: 0 0 19px 0; }
+    margin: 0 0 19px 0;
+    position: relative; }
+  .skills__number {
+    position: absolute;
+    top: 50px;
+    left: 42px;
+    font-size: 50px;
+    font-weight: 300;
+    color: #3c4761; }
 
 .portfolio {
   background: #fd9;
